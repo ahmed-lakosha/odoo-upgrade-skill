@@ -218,4 +218,15 @@ For issues or improvements:
 
 ---
 
-*Built with real-world experience from production Odoo migrations*
+*Built with real-world experience from production Odoo migrations*## 🚀 Quick Install
+
+```bash
+# Clone the skill
+git clone https://github.com/ahmed-lakosha/odoo-upgrade-skill.git
+
+# Copy to Claude skills directory (Windows)
+xcopy /E /I odoo-upgrade-skill %USERPROFILE%\.claude\skills\odoo-upgrade-skill
+
+# Or for Linux/Mac
+cp -r odoo-upgrade-skill ~/.claude/skills/
+```
