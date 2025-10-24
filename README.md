@@ -1,3 +1,7 @@
+![GitHub release](https://img.shields.io/github/v/release/ahmed-lakosha/odoo-upgrade-skill)
+![GitHub stars](https://img.shields.io/github/stars/ahmed-lakosha/odoo-upgrade-skill)
+![License](https://img.shields.io/badge/license-LGPL--3.0-blue)
+
 # Odoo Upgrade Skill for Claude Code
 
 A comprehensive Claude Code skill for automating Odoo ERP module upgrades between versions 14-19, with special focus on the breaking changes in Odoo 19.
